@@ -4,4 +4,4 @@ Python code to obtain coordinates of the entered location using geopy library.
 
 Jupyter Notebook web-application is used to run python code.
 
-Python code : Data Analysis_pycode.html
+Python code : Data Analysis_pycode.ipynb
